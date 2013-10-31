@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/Eon/!svn/ver/1/trunk/util/make
+END
+template.dirs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Eon/!svn/ver/1/trunk/util/make/template.dirs.mk
+END
+rules.static.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Eon/!svn/ver/1/trunk/util/make/rules.static.mk
+END
+template.lib.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Eon/!svn/ver/1/trunk/util/make/template.lib.mk
+END
+rules.common.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Eon/!svn/ver/1/trunk/util/make/rules.common.mk
+END
+template.bin.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Eon/!svn/ver/1/trunk/util/make/template.bin.mk
+END
+common.flags.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Eon/!svn/ver/1/trunk/util/make/common.flags.mk
+END
+rules.multi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/Eon/!svn/ver/1/trunk/util/make/rules.multi.mk
+END
+common.files.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Eon/!svn/ver/1/trunk/util/make/common.files.mk
+END
+common.cmd.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Eon/!svn/ver/1/trunk/util/make/common.cmd.mk
+END
+rules.dirs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Eon/!svn/ver/1/trunk/util/make/rules.dirs.mk
+END
+common.others.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Eon/!svn/ver/1/trunk/util/make/common.others.mk
+END
+rules.lib.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Eon/!svn/ver/1/trunk/util/make/rules.lib.mk
+END
+template.static.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Eon/!svn/ver/1/trunk/util/make/template.static.mk
+END
+rules.bin.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Eon/!svn/ver/1/trunk/util/make/rules.bin.mk
+END
+rules.mkname.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/Eon/!svn/ver/1/trunk/util/make/rules.mkname.mk
+END
+template.multi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Eon/!svn/ver/1/trunk/util/make/template.multi.mk
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/Eon/!svn/ver/1/trunk/util/make/readme.txt
+END
